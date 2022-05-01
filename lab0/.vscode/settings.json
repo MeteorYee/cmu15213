@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "queue.h": "c",
+        "stdbool.h": "c"
+    }
+}
